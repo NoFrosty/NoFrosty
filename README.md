@@ -47,9 +47,9 @@ You can expect:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-knm93x9fa-calvinds-projects.vercel.app/api?username=NoFrosty&show_icons=true&theme=tokyonight" style="max-height: 130px;" height="130"/>
+  <img src="https://github-readme-stats-nine-xi-88.vercel.app/api?username=NoFrosty&show_icons=true&theme=tokyonight" style="max-height: 130px;" height="130"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoFrosty&theme=tokyonight" style="max-height: 130px;" height="130"/>
-  <img src="https://github-readme-stats-knm93x9fa-calvinds-projects.vercel.app/api/top-langs/?username=NoFrosty&layout=compact&theme=tokyonight" style="max-height: 130px;" height="130"/>
+  <img src="https://github-readme-stats-nine-xi-88.vercel.app/api/top-langs/?username=NoFrosty&layout=compact&theme=tokyonight" style="max-height: 130px;" height="130"/>
 </p>
 
 ---
