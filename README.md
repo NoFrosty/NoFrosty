@@ -1,10 +1,15 @@
 <h1>Hey there, I'm Calvin alias Frosty (sometimes NoFrosty) 👋</h1>
 
+![Born in Turkey](https://img.shields.io/badge/Born_in_Turkey-E30A17?style=for-the-badge&logo=starship&logoColor=white)
+![Raised in France](https://img.shields.io/badge/Raised_in_France-0055A4?style=for-the-badge&logo=FreeCAD&logoColor=white)
+![Living in Korea](https://img.shields.io/badge/Living_in_Korea-2c7f3e?style=for-the-badge&logo=googlemaps&logoColor=white)
+
 <p>
 🎮 Game developer <br> 
 🌐 Web wizard <br>
 🎨 UI/UX dabbler with a sense of aesthetic and chaos
 </p>
+
 
 ![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
