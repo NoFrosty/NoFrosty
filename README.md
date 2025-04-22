@@ -7,7 +7,7 @@
 <p>
 🎮 Game developer <br> 
 🌐 Web wizard <br>
-🎨 UI/UX dabbler with a sense of aesthetic and chaos
+🎨 UI/UX designer with a sense of aesthetic and chaos
 </p>
 
 
