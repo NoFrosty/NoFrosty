@@ -1,10 +1,17 @@
 <h1>Hey there, I'm Calvin alias Frosty (sometimes NoFrosty) 👋</h1>
 
 <p>
-🎮 Game developer <br>
+🎮 Game developer <br> 
 🌐 Web wizard <br>
 🎨 UI/UX dabbler with a sense of aesthetic and chaos
 </p>
+
+![Unity](https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal_Engine-0e1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Blueprint](https://img.shields.io/badge/Blueprint-248EC2?style=for-the-badge&logo=blueprint&logoColor=white)
+
 
 ---
 
@@ -26,7 +33,7 @@ Also into web dev and UI/UX like a true full-stack Wacraft III peon. `Something 
 Languages: C#, JavaScript, TypeScript, HTML/CSS, C++, Java
 Engines: Unity, Unreal Engine 
 Web Stuff: React, Vue, Node.js, Electron, Tailwindcss, a sprinkle of madness  
-Design: Figma, Photoshop, Illustrator and sadly the late Adobe XD, no longer with us
+Design: Figma, Photoshop, Illustrator and sadly the late Adobe XD, no longer with us RIP 💀🪦
 ```
 
 ---
@@ -47,9 +54,9 @@ You can expect:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-nine-xi-88.vercel.app/api?username=NoFrosty&show_icons=true&theme=tokyonight" style="max-height: 130px;" height="130"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoFrosty&theme=tokyonight" style="max-height: 130px;" height="130"/>
-  <img src="https://github-readme-stats-nine-xi-88.vercel.app/api/top-langs/?username=NoFrosty&layout=compact&theme=tokyonight" style="max-height: 130px;" height="130"/>
+  <img src="https://github-readme-stats-nine-xi-88.vercel.app/api?username=NoFrosty&show_icons=true&theme=tokyonight" style="max-height: 130px;" height="130" alt="GitHub profile stats for NoFrosty"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoFrosty&theme=tokyonight" style="max-height: 130px;" height="130" alt="GitHub streak stats for NoFrosty"/>
+  <img src="https://github-readme-stats-nine-xi-88.vercel.app/api/top-langs/?username=NoFrosty&layout=compact&theme=tokyonight" style="max-height: 130px;" height="130" alt="Top languages used by NoFrosty on GitHub"/>
 </p>
 
 ---
@@ -64,9 +71,9 @@ You can expect:
 
 ### 📫 Let's Connect
 
-- 🌐 [My website](https://calvindogus.dev)
-- 🌐 [Behance](https://www.behance.net/calvind)
-- 🌐 [ArtStation](https://www.artstation.com/calvind)
+[![Website](https://img.shields.io/badge/Website-calvindogus.dev-0f0f0f?style=for-the-badge&logo=firefox&logoColor=white)](https://calvindogus.dev)
+[![Behance](https://img.shields.io/badge/Behance-Calvind-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/calvind)
+[![ArtStation](https://img.shields.io/badge/ArtStation-Calvind-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/calvind)
 
 ---
 
