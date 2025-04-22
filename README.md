@@ -14,7 +14,7 @@ I'm a game dev who occasionally touches grass (it's a lie) and frequently touche
 
 From Unity to Unreal, I build worlds, games, environment, stories, break bugs and create bugs, actually create more than fix them. `Yes, milord? What is it?`
 
-Also into web dev and UI/UX like a true full-stack Wacraft III peon. Something need doing? `Ready to work!`
+Also into web dev and UI/UX like a true full-stack Wacraft III peon. `Something need doing?` `Ready to work!`
 
 (And maybe a little Warcraft universe fan) 😅
 
