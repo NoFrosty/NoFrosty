@@ -12,7 +12,7 @@
 
 I'm a game dev who occasionally touches grass (it's a lie) and frequently touches code. `Work, work!`
 
-From Unity to Unreal, I build worlds, games, environment, stories, break bugs and create bugs, actually create more than fix them. `Yes, milord? What is it?`
+From Unity to Unreal, I build worlds, games, environments, stories, break bugs and create bugs, actually create more than fix them. `Yes, milord? What is it?`
 
 Also into web dev and UI/UX like a true full-stack Wacraft III peon. `Something need doing?` `Ready to work!`
 
